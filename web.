@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+
+
+<head>
+<title>Lương đẹp chai</title>
+</head>
+
+
+
+
+<body>
+
+    <h1>Tình hình du lịch Việt Nam 2023</h1>
+        
+    <p>Trong năm 2023, ngành du lịch Việt Nam tiếp tục phát triển mạnh mẽ và đã đang hứa hẹn các loại hình du lịch.</p>
+    <p>Với nhiều nỗ lực trong việc nâng cao chất lượng dịch vụ và bảo tồn môi trường, Việt Nam đã thu hút được một lượng lớn khách du lịch trong nước và quốc tế.</p>
+    
+    <h2>Thông kê số lượng du khách:</h2>
+    <p>Tổng số dự khách đến Việt Nam năm 2023: <b>20 triệu người</b>.</p>
+    <p>Du khách quốc tế: <b>12.6 triệu người</b>.</p>
+    <p>Du khách trong nước: <b>8 triệu người</b>.</p>
+    
+    <h3>Loại hình du lịch phổ biến:</h3>
+    <ul>
+        <li>Tham quan di tích lịch sử văn hóa</li>
+        <li>Tham quan tour du lịch miền núi</li>
+        <li>Thưởng thức ẩm thực địa phương</li>
+        <li>Tham quan các đảo biển</li>
+    </ul>
+    
+    <h3>Địa điểm du lịch nổi tiếng:</h3>
+    <ol>
+        <li><a href="https://vi.wikipedia.org/wiki/H%C3%A0_N%E1%BB%99i" target="_blank">Hà Nội</a></li>
+        <li><a href="https://vi.wikipedia.org/wiki/%C4%90%C3%A0_N%E1%BA%B5ng" target="_blank">Đà Nẵng</a></li>
+        <li><a href="https://vi.wikipedia.org/wiki/H%E1%BB%93_Ch%C3%AD_Minh_(%C4%91%E1%BB%8Bnh_h%C6%B0%E1%BB%9Bng)" target="_blank">Hồ Chí Minh</a></li>
+        <li><a href="https://vi.wikipedia.org/wiki/Ph%C3%BA_Qu%E1%BB%91c" target="_blank">Phú Quốc</a></li>
+        <li><a href="https://vi.wikipedia.org/wiki/H%E1%BA%A1_Long" target="_blank">Hạ Long</a></li>
+    </ol>
+    
+    <h2>Triển vọng phát triển:</h2>
+    <p>Dự kiến trong những năm tiếp theo, ngành du lịch Việt Nam sẽ tiếp tục phát triển mạnh mẽ, đóng góp vào nền kinh tế quốc gia và tạo ra nhiều cơ hội việc làm cho người dân.</p>
+    
+    <h3>Khách quốc tế phân theo vùng lãnh thổ:</h3>
+
+    <p><b>Châu Á</b></p>
+    <p>Số lượng du khách: <progress value="80" max="100"></progress></p>
+    
+    <p><b>Châu Âu</b></p>
+    <p>Số lượng du khách: <progress value="15" max="100"></progress></p>
+
+    <p><b>Châu Mỹ</b></p>
+    <p>Số lượng du khách: <progress value="5" max="100"></progress></p>
+
+    <p><b>Châu Phi</b></p>
+    <p>Số lượng du khách: <progress value="1" max="100"></progress></p>
+
+
+
+</body>
+
+
